@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Rust game DLL（ゲームバイナリ）
+plugins/*.dll
+
+# Carbon 参照リポジトリ（ローカルクローン）
+refs/
+
 # User-specific files
 *.rsuser
 *.suo
