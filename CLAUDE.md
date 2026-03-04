@@ -62,3 +62,9 @@ c.reload PluginName
 ## ナレッジ
 
 - `docs/carbon-plugin-patterns.md` — Harmony パッチの使い方・よくある間違い・確認済みAPIパターン
+- `docs/MEMORY.md` — 開発メモ・要点まとめ
+
+## ドキュメント運用方針
+
+- `ignore/` — 開発に使う元資料（DLL・ツール・外部リポジトリ等）。git管理外
+- `docs/` — `ignore/` の資料から得られた知見をまとめたもの。git管理対象
