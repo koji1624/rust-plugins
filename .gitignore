@@ -9,6 +9,9 @@ plugins/*.dll
 # Carbon 参照リポジトリ（ローカルクローン）
 refs/
 
+# ローカル専用ファイル（DLL・ツール類）
+ignore/
+
 # User-specific files
 *.rsuser
 *.suo
